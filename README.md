@@ -13,8 +13,8 @@
 ```
 ACCOUNTS	Netlib账户信息(必填)，格式：user1:pass1,user2:pass2
 
-BOT_TOKEN	Telegram机器人Token	123456:ABC-DEF1234ghIkl-zyx57W2v1u1212Dtr
-CHAT_ID	Telegram 聊天 ID	123456789
+BOT_TOKEN	 Telegram机器人Token	123456:ABC-DEF1234ghIkl-zyx57W2v1u1212Dtr
+CHAT_ID	   Telegram 聊天ID	  123456789
 不需要telegram通知可不配置
 ```
 
